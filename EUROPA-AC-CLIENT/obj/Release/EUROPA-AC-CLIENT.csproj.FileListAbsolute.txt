@@ -1,0 +1,7 @@
+C:\Users\Daniel\Desktop\EUROPA-AC-CLIENT\EUROPA-AC-CLIENT\bin\Release\EUROPA-AC-CLIENT.exe.config
+C:\Users\Daniel\Desktop\EUROPA-AC-CLIENT\EUROPA-AC-CLIENT\bin\Release\EUROPA-AC-CLIENT.exe
+C:\Users\Daniel\Desktop\EUROPA-AC-CLIENT\EUROPA-AC-CLIENT\bin\Release\EUROPA-AC-CLIENT.pdb
+C:\Users\Daniel\Desktop\EUROPA-AC-CLIENT\EUROPA-AC-CLIENT\obj\Release\EUROPA-AC-CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\EUROPA-AC-CLIENT\EUROPA-AC-CLIENT\obj\Release\EUROPA-AC-CLIENT.exe
+C:\Users\Daniel\Desktop\EUROPA-AC-CLIENT\EUROPA-AC-CLIENT\obj\Release\EUROPA-AC-CLIENT.pdb
+C:\Users\Daniel\Desktop\EUROPA-AC-CLIENT\EUROPA-AC-CLIENT\obj\Release\EUROPA-AC-CLIENT.csprojAssemblyReference.cache
